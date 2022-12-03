@@ -61,9 +61,8 @@ disable Serial port
 
 
 ## Preview
-![about](https://github.com/MagicianLjj/MSI-B450m-MORTAR-Hackintosh/blob/main/ScreenShot/about.png 196x320)
-
-![sensei](https://github.com/MagicianLjj/MSI-B450m-MORTAR-Hackintosh/blob/main/ScreenShot/sensei.png 556X402)
+<img src="https://github.com/MagicianLjj/MSI-B450m-MORTAR-Hackintosh/blob/main/ScreenShot/about.png" width="196"/>
+<img src="https://github.com/MagicianLjj/MSI-B450m-MORTAR-Hackintosh/blob/main/ScreenShot/sensei.png" width="556"/>
 
 ## Acknowledgements 
 国光：https://apple.sqlsec.com/6-%E5%AE%9E%E7%94%A8%E5%A7%BF%E5%8A%BF/6-1.html  
