@@ -54,7 +54,7 @@ disable Serial port
                    <key>device_type</key>
                    <string>ATY,HenburyParent</string>
                    <key>model</key>
-                   <string>AMD Radeon RRO W6600X</string>
+                   <string>AMD Radeon Pro W6600X</string>
                    <key>name</key>
                    <string>ATY,Henbury</string>
    ```
