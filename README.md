@@ -39,26 +39,26 @@ enable above 4G
 4.  Radeon 6600
 
    ```xml
-   					 <key>@0,name</key>
-                   <string>ATY,Henbury</string>
-                   <key>@1,name</key>
-                   <string>ATY,Henbury</string>
-                   <key>@2,name</key>
-                   <string>ATY,Henbury</string>
-                   <key>@3,name</key>
-                   <string>ATY,Henbury</string>
-                   <key>ATY,DeviceName</key>
-                   <string>W6600X</string>
-                   <key>ATY,EFIVersion</key>
-                   <string>01.01.270</string>
-                   <key>ATY,FamilyName</key>
-                   <string>Radeon Pro</string>
-                   <key>device_type</key>
-                   <string>ATY,HenburyParent</string>
-                   <key>model</key>
-                   <string>AMD Radeon Pro W6600X</string>
-                   <key>name</key>
-                   <string>ATY,Henbury</string>
+<key>@0,name</key>
+<string>ATY,Henbury</string>
+<key>@1,name</key>
+<string>ATY,Henbury</string>
+<key>@2,name</key>
+<string>ATY,Henbury</string>
+<key>@3,name</key>
+<string>ATY,Henbury</string>
+<key>ATY,DeviceName</key>
+<string>W6600X</string>
+<key>ATY,EFIVersion</key>
+<string>01.01.270</string>
+<key>ATY,FamilyName</key>
+<string>Radeon Pro</string>
+<key>device_type</key>
+<string>ATY,HenburyParent</string>
+<key>model</key>
+<string>AMD Radeon Pro W6600X</string>
+<key>name</key>
+<string>ATY,Henbury</string>   
    ```
 
 
