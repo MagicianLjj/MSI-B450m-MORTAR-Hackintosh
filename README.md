@@ -2,26 +2,28 @@
 MSI-B450m-MORTAR-MAX-Hackintosh
 
 ## Description
-macos: ventura 13.0.1 (22A400)  
-opencore: 8.6  
+macos: ventura 13.3 (22E252)
+
+opencore: 9.0  
 motherboard: MSI-B450m-MORTAR-MAX  
 cpu: AMD Ryzen 5 5600   
 gpu: AMD Radeon RX 6600 XT  
 audio: usb audio (due to bad of motherboard)  
-disk: sata  
+disk: nvme J.ZAO   
 usb: USB port has been customized   
 wifi：intel AX210 （not work at present, due to scan problem of the kext on ventura）   
-bluetooth: intel work fine   
+bluetooth: intel and it works fine   
 
 ## Bios setting
 disable security boot 
 csm -> uefi 
 disable Serial port 
+enable above 4G
 
 ## Attention
 - customized your own usb port,  built-in ports maybe different 
 
-- remove built-in disk 
+- remove my own built-in disk 
 
 - gen your own platformInfo 
 
@@ -37,7 +39,7 @@ disable Serial port
 4.  Radeon 6600
 
    ```xml
-   								<key>@0,name</key>
+   					 <key>@0,name</key>
                    <string>ATY,Henbury</string>
                    <key>@1,name</key>
                    <string>ATY,Henbury</string>
