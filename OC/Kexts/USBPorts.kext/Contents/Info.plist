@@ -47,9 +47,7 @@
 				<key>kUSBWakePowerSupply</key>
 				<integer>5100</integer>
 				<key>port-count</key>
-				<data>
-				DgAAAA==
-				</data>
+				<data>DgAAAA==</data>
 				<key>ports</key>
 				<dict>
 					<key>PO10</key>
@@ -59,20 +57,16 @@
 						<key>name</key>
 						<string>PO10</string>
 						<key>port</key>
-						<data>
-						CgAAAA==
-						</data>
+						<data>CgAAAA==</data>
 					</dict>
 					<key>PO11</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>255</integer>
 						<key>name</key>
 						<string>PO11</string>
 						<key>port</key>
-						<data>
-						CwAAAA==
-						</data>
+						<data>CwAAAA==</data>
 					</dict>
 					<key>PO12</key>
 					<dict>
@@ -81,9 +75,7 @@
 						<key>name</key>
 						<string>PO12</string>
 						<key>port</key>
-						<data>
-						DAAAAA==
-						</data>
+						<data>DAAAAA==</data>
 					</dict>
 					<key>PO13</key>
 					<dict>
@@ -92,9 +84,7 @@
 						<key>name</key>
 						<string>PO13</string>
 						<key>port</key>
-						<data>
-						DQAAAA==
-						</data>
+						<data>DQAAAA==</data>
 					</dict>
 					<key>PO14</key>
 					<dict>
@@ -103,9 +93,7 @@
 						<key>name</key>
 						<string>PO14</string>
 						<key>port</key>
-						<data>
-						DgAAAA==
-						</data>
+						<data>DgAAAA==</data>
 					</dict>
 					<key>POT1</key>
 					<dict>
@@ -114,9 +102,7 @@
 						<key>name</key>
 						<string>POT1</string>
 						<key>port</key>
-						<data>
-						AQAAAA==
-						</data>
+						<data>AQAAAA==</data>
 					</dict>
 					<key>POT2</key>
 					<dict>
@@ -125,9 +111,7 @@
 						<key>name</key>
 						<string>POT2</string>
 						<key>port</key>
-						<data>
-						AgAAAA==
-						</data>
+						<data>AgAAAA==</data>
 					</dict>
 					<key>POT3</key>
 					<dict>
@@ -136,9 +120,7 @@
 						<key>name</key>
 						<string>POT3</string>
 						<key>port</key>
-						<data>
-						AwAAAA==
-						</data>
+						<data>AwAAAA==</data>
 					</dict>
 					<key>POT5</key>
 					<dict>
@@ -147,9 +129,7 @@
 						<key>name</key>
 						<string>POT5</string>
 						<key>port</key>
-						<data>
-						BQAAAA==
-						</data>
+						<data>BQAAAA==</data>
 					</dict>
 					<key>POT6</key>
 					<dict>
@@ -158,9 +138,7 @@
 						<key>name</key>
 						<string>POT6</string>
 						<key>port</key>
-						<data>
-						BgAAAA==
-						</data>
+						<data>BgAAAA==</data>
 					</dict>
 					<key>POT7</key>
 					<dict>
@@ -169,9 +147,7 @@
 						<key>name</key>
 						<string>POT7</string>
 						<key>port</key>
-						<data>
-						BwAAAA==
-						</data>
+						<data>BwAAAA==</data>
 					</dict>
 				</dict>
 			</dict>
@@ -203,9 +179,7 @@
 				<key>kUSBWakePowerSupply</key>
 				<integer>5100</integer>
 				<key>port-count</key>
-				<data>
-				CAAAAA==
-				</data>
+				<data>CAAAAA==</data>
 				<key>ports</key>
 				<dict>
 					<key>HS03</key>
@@ -215,9 +189,7 @@
 						<key>name</key>
 						<string>HS03</string>
 						<key>port</key>
-						<data>
-						AwAAAA==
-						</data>
+						<data>AwAAAA==</data>
 					</dict>
 					<key>SS01</key>
 					<dict>
@@ -226,9 +198,7 @@
 						<key>name</key>
 						<string>SS01</string>
 						<key>port</key>
-						<data>
-						BQAAAA==
-						</data>
+						<data>BQAAAA==</data>
 					</dict>
 					<key>SS02</key>
 					<dict>
@@ -237,9 +207,7 @@
 						<key>name</key>
 						<string>SS02</string>
 						<key>port</key>
-						<data>
-						BgAAAA==
-						</data>
+						<data>BgAAAA==</data>
 					</dict>
 					<key>SS04</key>
 					<dict>
@@ -248,9 +216,7 @@
 						<key>name</key>
 						<string>SS04</string>
 						<key>port</key>
-						<data>
-						CAAAAA==
-						</data>
+						<data>CAAAAA==</data>
 					</dict>
 				</dict>
 			</dict>
