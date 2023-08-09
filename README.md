@@ -15,10 +15,10 @@ wifi：intel AX210 （works properly now）
 bluetooth: intel and it works fine   
 
 ## Bios setting
-disable security boot 
-csm -> uefi 
-disable Serial port 
-**disable above 4G**  （sleep issue related）
+disable security boot  
+csm -> uefi  
+disable Serial port  
+**disable above 4G**  （sleep issue related）  
 
 ## Attention
 - customized your own usb port,  built-in ports maybe different 
