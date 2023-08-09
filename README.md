@@ -2,23 +2,23 @@
 MSI-B450m-MORTAR-MAX-Hackintosh
 
 ## Description
-macos: ventura 13.3 (22E252)
+macos: ventura 13.3 (22F770820d)
 
-opencore: 9.0  
+opencore: 9.3  
 motherboard: MSI-B450m-MORTAR-MAX  
 cpu: AMD Ryzen 5 5600   
 gpu: AMD Radeon RX 6600 XT  
 audio: usb audio (due to bad of motherboard)  
 disk: nvme J.ZAO   
 usb: USB port has been customized   
-wifi：intel AX210 （not work at present, due to scan problem of the kext on ventura）   
+wifi：intel AX210 （works properly now）   
 bluetooth: intel and it works fine   
 
 ## Bios setting
 disable security boot 
 csm -> uefi 
 disable Serial port 
-enable above 4G
+**disable above 4G**  （sleep issue related）
 
 ## Attention
 - customized your own usb port,  built-in ports maybe different 
