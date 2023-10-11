@@ -2,16 +2,16 @@
 MSI-B450m-MORTAR-MAX-Hackintosh
 
 ## Description
-macos: ventura 13.3 (22F770820d)
+macos: sonoma 14.0 (23A344)
 
-opencore: 9.3  
+opencore: 9.5  
 motherboard: MSI-B450m-MORTAR-MAX  
 cpu: AMD Ryzen 5 5600   
 gpu: AMD Radeon RX 6600 XT  
 audio: usb audio (due to bad of motherboard)  
 disk: nvme J.ZAO   
 usb: USB port has been customized   
-wifi：intel AX210 （works properly now）   
+wifi：intel AX210 （works properly with driver preview.05）   
 bluetooth: intel and it works fine   
 
 ## Bios setting
